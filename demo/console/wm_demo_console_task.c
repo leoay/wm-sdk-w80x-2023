@@ -480,7 +480,5 @@ void CreateDemoTask(void)
                        DEMO_TASK_PRIO,
                        0);
 }
-
-
 #endif	//DEMO_CONSOLE
 
